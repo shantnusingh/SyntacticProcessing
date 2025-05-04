@@ -21,4 +21,4 @@ Defining input and target variables
 Building the model
 Evaluating the model
 Identifying the diseases and predicted treatment using a custom NER
-image
+
